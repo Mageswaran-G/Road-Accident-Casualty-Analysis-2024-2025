@@ -9,15 +9,6 @@ This project is a comprehensive data analysis and visualization of 417,883 vehic
 
 **Total Casualties:** 417,883
 
-
-📑 Full Project Files & Data
-
-Due to the file size (34 MB), the complete interactive Excel workbook containing the pivot tables, underlying raw data, and all formulas is hosted externally.
-Original Excel Analysis Workbook (34 MB): 
-[Download Full Report and Raw Data Here]
-(https://1drv.ms/x/c/3CF042B154A51B1D/IQBwNP8UPZyzQrCJM1-HCP1kAZO1HbOZu7rCx0yRWty-jv0?e=XhNG0W)
-
-
 GitHub Repository: Contains the final dashboard image and analysis reports (PNG files).
 
 <img width="733" height="626" alt="image" src="https://github.com/user-attachments/assets/07f3ddad-8713-40d5-ac54-938d13ba09a0" />
