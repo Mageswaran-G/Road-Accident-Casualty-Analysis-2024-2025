@@ -9,7 +9,7 @@ This project is a comprehensive data analysis and visualization of 417,883 vehic
 
 **Total Casualties:** 417,883
 
-GitHub Repository: Contains the final dashboard image and analysis reports (PNG files).
+GitHub Repository: Contains the final dashboard image and analysis reports.
 
 <img width="733" height="626" alt="image" src="https://github.com/user-attachments/assets/07f3ddad-8713-40d5-ac54-938d13ba09a0" />
 
